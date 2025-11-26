@@ -16,11 +16,11 @@ Check off each control as you verify its implementation:
 | CloudTrail S3 Bucket (encrypted, access-controlled) | success |<img src= "https://github.com/lil-LTJ/grc_portfolio/blob/e8014cc01e2baf580a33dd76126ead5be4152586/Screenshots/CloudTrail%20S3%20Bucket%20(encrypted%2C%20access-controlled).JPG" width="400" alt="CloudTrail S3 Bucket (encrypted, access-controlled)"> |
 | AWS Config Recorder | success |<img src= "https://github.com/lil-LTJ/grc_portfolio/blob/e8014cc01e2baf580a33dd76126ead5be4152586/Screenshots/AWS%20Config%20is%20enabled%20with%20proper%20settings.JPG" width="400" alt="CloudTrail Logging" >   |
 | AWS Config Rules | success | <img width="199" height="105" alt="image" src="https://github.com/user-attachments/assets/d086ed38-e1c3-40e5-a26a-f3ac4cedc169" /> <img width="176" height="678" alt="image" src="https://github.com/user-attachments/assets/9e63c6dd-f06c-4079-99ef-94993f2d96a2" /> |
-| Security Hub | success |<img width="1693" height="1032" alt="image" src="https://github.com/user-attachments/assets/e9142c1d-d6d8-49a4-a805-253232769164" />|
+| Security Hub | success |<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e9142c1d-d6d8-49a4-a805-253232769164" />|
 | IAM Access Analyzer | success |<img width="203" height="877" alt="image" src="https://github.com/user-attachments/assets/8afd66f3-8865-4e9b-8357-f76afd78e1ec" />|
-| CloudWatch Alarms for Security Events | success |<img width="203" height="597" alt="image" src="https://github.com/user-attachments/assets/34b1fcc4-2ea1-4f63-8a8e-42c16cf92adc" />|
-| SNS Topic for Alerts | success |<img width="173" height="312" alt="image" src="https://github.com/user-attachments/assets/4046e4bd-c09a-4463-8bf8-09d07e6194cf" />|
-| AWS Budget with Notifications | success |<img width="1431" height="595" alt="image" src="https://github.com/user-attachments/assets/762025d5-8f83-4adb-9432-eb73ebcf566d" />|
+| CloudWatch Alarms for Security Events | success |<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/34b1fcc4-2ea1-4f63-8a8e-42c16cf92adc" />|
+| SNS Topic for Alerts | success |<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4046e4bd-c09a-4463-8bf8-09d07e6194cf" />|
+| AWS Budget with Notifications | success |<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/762025d5-8f83-4adb-9432-eb73ebcf566d" />|
 
 ### AWS Config Rule Compliance
 
@@ -41,9 +41,9 @@ List the Security Hub security standards you've enabled and their current scores
 
 | Security Standard | Current Score | Critical/High Findings |
 |-------------------|---------------|------------------------|
-| AWS Foundational Security Best Practices | 44%|<img width="136" height="297" alt="image" src="https://github.com/user-attachments/assets/92f3557a-ef15-4dc4-b850-1a0bce7cff0c" /> |
-| CIS AWS Foundations Benchmark |38% |<img width="138" height="297" alt="image" src="https://github.com/user-attachments/assets/8aca6bd0-9e49-4d3e-a392-2c736a5da095" />|
-| PCI DSS |56% |<img width="139" height="290" alt="image" src="https://github.com/user-attachments/assets/729829b9-53d2-47da-8d26-72ef0ca704e7" />|
+| AWS Foundational Security Best Practices | 44%|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/92f3557a-ef15-4dc4-b850-1a0bce7cff0c" /> |
+| CIS AWS Foundations Benchmark |38% |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8aca6bd0-9e49-4d3e-a392-2c736a5da095" />|
+| PCI DSS |56% |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/729829b9-53d2-47da-8d26-72ef0ca704e7" />|
 
 ## Open-Ended Reflection Questions
 
