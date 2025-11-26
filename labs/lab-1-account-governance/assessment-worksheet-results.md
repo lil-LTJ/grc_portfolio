@@ -41,9 +41,9 @@ List the Security Hub security standards you've enabled and their current scores
 
 | Security Standard | Current Score | Critical/High Findings |
 |-------------------|---------------|------------------------|
-| AWS Foundational Security Best Practices | 44%|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/92f3557a-ef15-4dc4-b850-1a0bce7cff0c" /> |
-| CIS AWS Foundations Benchmark |38% |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8aca6bd0-9e49-4d3e-a392-2c736a5da095" />|
-| PCI DSS |56% |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/729829b9-53d2-47da-8d26-72ef0ca704e7" />|
+| AWS Foundational Security Best Practices | 44%|<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/92f3557a-ef15-4dc4-b850-1a0bce7cff0c" /> |
+| CIS AWS Foundations Benchmark |38% |<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8aca6bd0-9e49-4d3e-a392-2c736a5da095" />|
+| PCI DSS |56% |<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/729829b9-53d2-47da-8d26-72ef0ca704e7" />|
 
 ## Open-Ended Reflection Questions
 
