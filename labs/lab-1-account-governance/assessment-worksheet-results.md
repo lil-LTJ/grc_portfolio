@@ -181,7 +181,7 @@ as well as indirect costs associated with operational complexity.
 A GRC engineer must deliberately manage these tradeoffs based on the organization's risk appetite and context.
 
 ```
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56903386-3f59-4466-983c-b6553f1e60be" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/56903386-3f59-4466-983c-b6553f1e60be" />
 
 
 ## Implementation Evidence
